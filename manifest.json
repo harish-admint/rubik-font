@@ -1,0 +1,86 @@
+{
+  "files": {
+    "FASTN.ftd": {
+      "name": "FASTN.ftd",
+      "checksum": "F8BA7EBF608C3F1414F4949A1DB212E29B09BF2CAD47FE1E3FEC74F49A49A771",
+      "size": 4759
+    },
+    "README.md": {
+      "name": "README.md",
+      "checksum": "465E7B320730113FA3325965E7FEFC427BAF74282457D8281B1048E3BABD10F9",
+      "size": 1008
+    },
+    "custom.ftd": {
+      "name": "custom.ftd",
+      "checksum": "D7D3613A2FD6D65E872436B36DF250C2D163044FA8738CE6AC2835FCB492B48F",
+      "size": 5853
+    },
+    "index.ftd": {
+      "name": "index.ftd",
+      "checksum": "96DF52CD2BA538E80500D878F66C2EEF813C0737AECA57269B934937EF11651F",
+      "size": 2113
+    },
+    "static/Rubik-300-900-italic-arabic.woff2": {
+      "name": "static/Rubik-300-900-italic-arabic.woff2",
+      "checksum": "7893845859110549C2D909636D19BEEF44FF15ECD6327A3325109441C29FC744",
+      "size": 32492
+    },
+    "static/Rubik-300-900-italic-cyrillic-ext.woff2": {
+      "name": "static/Rubik-300-900-italic-cyrillic-ext.woff2",
+      "checksum": "16CC37FFA141C3147359D73ECF33C7AAA1182079CD6A075E8265B9A2E2DBDC25",
+      "size": 13572
+    },
+    "static/Rubik-300-900-italic-cyrillic.woff2": {
+      "name": "static/Rubik-300-900-italic-cyrillic.woff2",
+      "checksum": "D22E9C487E5A71781278A3BBB450793D02C48AAF1EE1AB7C3DD6911368A183F6",
+      "size": 16452
+    },
+    "static/Rubik-300-900-italic-hebrew.woff2": {
+      "name": "static/Rubik-300-900-italic-hebrew.woff2",
+      "checksum": "58962E1C545336133BDE9CCC949E3375DDCD877A2F2F677643435C7F701060B6",
+      "size": 8968
+    },
+    "static/Rubik-300-900-italic-latin-ext.woff2": {
+      "name": "static/Rubik-300-900-italic-latin-ext.woff2",
+      "checksum": "B5755374EE2133D7BA2E907F038AE17121463EEEFAAEE25230AD1A8161A2B55F",
+      "size": 20940
+    },
+    "static/Rubik-300-900-italic-latin.woff2": {
+      "name": "static/Rubik-300-900-italic-latin.woff2",
+      "checksum": "36791C7ED0C7AE2E4246246FCC002F0DB8F238E8C53795BC305C32E2973B190E",
+      "size": 36408
+    },
+    "static/Rubik-300-900-normal-arabic.woff2": {
+      "name": "static/Rubik-300-900-normal-arabic.woff2",
+      "checksum": "BC857679FF68C3BD3687B79772B031AF4E4C645CBF61600974883F4FF0DC332D",
+      "size": 32372
+    },
+    "static/Rubik-300-900-normal-cyrillic-ext.woff2": {
+      "name": "static/Rubik-300-900-normal-cyrillic-ext.woff2",
+      "checksum": "452FEB2A84BE9A4244624838DBB25F61A5EDA0E12CA698995D458093E7B9695D",
+      "size": 12236
+    },
+    "static/Rubik-300-900-normal-cyrillic.woff2": {
+      "name": "static/Rubik-300-900-normal-cyrillic.woff2",
+      "checksum": "A7AD9DB12275B6BCAA57A392D98122C99C0F7A80416DA0EDDE9897E4330AF8EB",
+      "size": 15076
+    },
+    "static/Rubik-300-900-normal-hebrew.woff2": {
+      "name": "static/Rubik-300-900-normal-hebrew.woff2",
+      "checksum": "95D333FE759E20B583DB9F83F3C1C9ADA96DA201F38F9C917E70D92BF711753B",
+      "size": 8704
+    },
+    "static/Rubik-300-900-normal-latin-ext.woff2": {
+      "name": "static/Rubik-300-900-normal-latin-ext.woff2",
+      "checksum": "F4BBC2BF47FDA8157880CD1B33F76C49D8AF6825C3DBC15DF63E625D8B35DF65",
+      "size": 18928
+    },
+    "static/Rubik-300-900-normal-latin.woff2": {
+      "name": "static/Rubik-300-900-normal-latin.woff2",
+      "checksum": "47374CB7D373F9A8450E1237C80BC5FE68C61FBF0CDF958DF7A298143B7DD445",
+      "size": 35448
+    }
+  },
+  "zip_url": "https://codeload.github.com/harish-admint/rubik-font/zip/refs/heads/main",
+  "checksum": "2DC49791DD9767CFCBE972DFF573FF91861E7FAA6A9810F640B966BD5D66B607"
+}
